@@ -13,7 +13,7 @@
 <h2>✨ Features</h2>
 
 <ul>
-  <li>🗨️ <strong>Extract Q&A pairs</strong> from chat-based websites.</li>
+  <li>🗨️ <strong>Extract Q&A pairs</strong> from ChatGPT</li>
   <li>📌 <strong>Temporary Chat Option</strong>: Mark conversations as temporary, recorded in the XML file.</li>
   <li>📑 <strong>Beautified XML Output</strong>: Formatted for readability.</li>
   <li>💾 <strong>Download XML File</strong>: Save extracted data with one click.</li>
