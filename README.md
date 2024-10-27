@@ -1,7 +1,7 @@
 <h1 align="center">📄 ChatGPT Q&A Extractor - Chrome Extension</h1>
 
 <p align="center">
-    <img src="icons/icon128.png" alt="Q&A Extractor Icon" width="128">
+    <img src="icon128.png" alt="Q&A Extractor Icon" width="128">
 </p>
 
 <p align="center">
