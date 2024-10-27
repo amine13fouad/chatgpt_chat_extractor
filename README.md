@@ -136,7 +136,3 @@
 <h3 align="center"> 🥂 Enjoy extracting ChatGPT Q&A data effortlessly with ChatGPT Q&A Extractor! 🎉</h3>
 
 <hr>
-
-<blockquote>
-  <strong>Note</strong>: Replace placeholder information like <code>Amine FOUAD</code> and <code>amine13fouad@gmail.com</code> with your actual details. Customize icon and screenshot paths as necessary.
-</blockquote>
