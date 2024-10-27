@@ -1,11 +1,11 @@
-<h1 align="center">📄 Q&A Extractor - Chrome Extension</h1>
+<h1 align="center">📄 ChatGPT Q&A Extractor - Chrome Extension</h1>
 
 <p align="center">
     <img src="icons/icon128.png" alt="Q&A Extractor Icon" width="128">
 </p>
 
 <p align="center">
-    <strong>Q&A Extractor</strong> is a Chrome extension designed to extract and structure question-and-answer pairs from chat-based web pages. Save conversations as XML files and organize information easily. With this extension, you can also mark chats as temporary, which is recorded in the XML output.
+    <strong>ChatGPT Q&A Extractor</strong> is a Chrome extension designed to extract and structure question-and-answer pairs from chat-based web pages. Save conversations as XML files and organize information easily. With this extension, you can also mark chats as temporary, which is recorded in the XML output.
 </p>
 
 <hr>
@@ -21,21 +21,11 @@
 
 <hr>
 
-<h2>📸 Screenshots</h2>
-
-<h3>Main Interface</h3>
-<img src="screenshots/main_interface.png" alt="Main Interface" width="600">
-
-<h3>XML Download Example</h3>
-<img src="screenshots/download_example.png" alt="XML Download" width="600">
-
-<hr>
-
 <h2>🛠️ Installation</h2>
 
 <ol>
-  <li><strong>Clone this repository</strong> or <a href="https://github.com/yourusername/qa-extractor/archive/refs/heads/main.zip">download the ZIP</a>.
-    <pre><code>git clone https://github.com/yourusername/qa-extractor.git</code></pre>
+  <li><strong>Clone this repository</strong> or <a href="https://github.com/amine13fouad/chatgpt_chat_extractor/archive/refs/heads/main.zip">download the ZIP</a>.
+    <pre><code>git clone https://github.com/amine13fouad/chatgpt_chat_extractor.git</code></pre>
   </li>
   <li><strong>Open Chrome Extensions Page</strong>:
     <ul>
