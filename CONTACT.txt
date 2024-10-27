@@ -1,0 +1,16 @@
+===================================
+      Q&A Extractor - Contact Info
+===================================
+
+Developer: Amine FOUAD
+Email: amine13fouad@gmail.com
+GitHub: https://github.com/amine13fouad
+LinkedIn: https://www.linkedin.com/in/amine-fouad
+
+
+Thank you for using ChatGPT Q&A Extractor!
+If you have any questions, feedback, or would like to contribute to the project, feel free to reach out via any of the links above.
+
+Best,
+Amine FOUAD
+===================================
