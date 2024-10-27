@@ -21,6 +21,14 @@
 
 <hr>
 
+<h2>📸 Screenshots</h2>
+
+<h3>Main Interface</h3>
+<img src="1.png" alt="Main Interface" width="600">
+<img src="2.png" alt="XML Download" width="600">
+
+<hr>
+
 <h2>🛠️ Installation</h2>
 
 <ol>
