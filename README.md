@@ -1,4 +1,4 @@
-#📄 Q&A Extractor - Chrome Extension
+<h1>📄 Q&A Extractor - Chrome Extension</h1>
 
 Q&A Extractor is a Chrome extension designed to extract and structure question-and-answer pairs from chat-based web pages. Save conversations as XML files and organize information easily. With this extension, you can also mark chats as temporary, which is recorded in the XML output.
 
