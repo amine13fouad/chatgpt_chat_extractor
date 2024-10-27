@@ -35,12 +35,12 @@
   </li>
   <li><strong>Load the Extension</strong>:
     <ul>
-      <li>Click <strong>Load unpacked</strong> and select the <code>qa-extractor</code> directory.</li>
+      <li>Click <strong>Load unpacked</strong> and select the <code>chatgpt_chat_extractor</code> directory.</li>
     </ul>
   </li>
   <li><strong>Confirm Installation</strong>:
     <ul>
-      <li>You should see the Q&A Extractor icon in your Chrome toolbar.</li>
+      <li>You should see the ChatGPT Q&A Extractor icon in your Chrome toolbar.</li>
     </ul>
   </li>
 </ol>
@@ -120,29 +120,23 @@
 
 <hr>
 
-<h2>📜 License</h2>
-
-<p>This project is licensed under the MIT License.</p>
-
-<hr>
-
 <h2>📬 Contact</h2>
 
 <p>For questions or support, please reach out to:</p>
 
 <ul>
-  <li><strong>Name</strong>: [Your Name]</li>
-  <li><strong>Email</strong>: [your.email@example.com]</li>
-  <li><strong>GitHub</strong>: <a href="https://github.com/yourusername">https://github.com/yourusername</a></li>
-  <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/yourprofile">https://www.linkedin.com/in/yourprofile</a></li>
+  <li><strong>Name</strong>: Amine FOUAD</li>
+  <li><strong>Email</strong>: amine13fouad@gmail.com</li>
+  <li><strong>GitHub</strong>: <a href="https://github.com/amine13fouad">https://github.com/amine13fouad</a></li>
+  <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/amine-fouad">https://www.linkedin.com/in/amine-fouad</a></li>
 </ul>
 
 <hr>
 
-<h3 align="center"> 🥂 Enjoy extracting Q&A data effortlessly with Q&A Extractor! 🎉</h3>
+<h3 align="center"> 🥂 Enjoy extracting ChatGPT Q&A data effortlessly with ChatGPT Q&A Extractor! 🎉</h3>
 
 <hr>
 
 <blockquote>
-  <strong>Note</strong>: Replace placeholder information like <code>[Your Name]</code> and <code>[your.email@example.com]</code> with your actual details. Customize icon and screenshot paths as necessary.
+  <strong>Note</strong>: Replace placeholder information like <code>Amine FOUAD</code> and <code>amine13fouad@gmail.com</code> with your actual details. Customize icon and screenshot paths as necessary.
 </blockquote>
